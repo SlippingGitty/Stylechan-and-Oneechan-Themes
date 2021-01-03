@@ -1,4 +1,4 @@
-# Stylechan-and-Oneechan-Themes
+# Stylechan and Oneechan Themes
 
 ___
 
